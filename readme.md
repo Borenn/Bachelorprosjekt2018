@@ -1,3 +1,3 @@
-## Velkommen til Gruppe 31
+## Chroma Webside
 
 [Prosjektskisse](https://borenn.github.io/Bachelorprosjekt2018/Prosjektskisse.pdf)
