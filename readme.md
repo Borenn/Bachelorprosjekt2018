@@ -1,4 +1,4 @@
-## Gruppe 31
+## Gruppe 31 - Webside for Chroma AS
 
 [Trykk for Prosjektskisse](https://borenn.github.io/Bachelorprosjekt2018/Prosjektskisse.pdf)
 
