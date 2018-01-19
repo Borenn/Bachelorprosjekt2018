@@ -2,4 +2,4 @@
 
 [Trykk for Prosjektskisse](https://borenn.github.io/Bachelorprosjekt2018/Prosjektskisse.pdf)
 
-+[Trykk for Forprosjektrapport](https://borenn.github.io/Bachelorprosjekt2018/Forprosjekt.pdf)
+[Trykk for Forprosjektrapport](https://borenn.github.io/Bachelorprosjekt2018/Forprosjekt.pdf)
